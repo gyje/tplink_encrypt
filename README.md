@@ -1,0 +1,2 @@
+# tplink_encrypt
+tplink路由器前端加密算法python实现
